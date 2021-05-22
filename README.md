@@ -1,1 +1,1 @@
-# Multi-label-image-classifier
+# Binary image classifier
